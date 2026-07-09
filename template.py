@@ -1,7 +1,7 @@
-import os
-from pathlib import Path
+import os                 # os is used to access environment variables and other operating system features.
+from pathlib import Path  # Path is used for file and directory paths.
 
-project_name = "src"
+project_name = "src"   # The name of the project is set to "src". This variable will be used to create the directory structure and file paths for the project.
 
 list_of_files = [
 
